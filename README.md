@@ -1,9 +1,9 @@
-# Bioinformatics Final Report
+# CSCI474/574 Bioinformatics Final Report
 
-This repository contains the final report for our bioinformatics final group project.
+This repository contains the final report for our bioinformatics final group project. This was a class offered at [Western Washington University](https://www.wwu.edu/) in Fall 2024.
 
 ## Report
-You can view the detailed report here:[DIMPHA Final Report](DIMPHA%20Final%20Report.pdf).
+You can view the detailed report here: [DIMPHA Final Report](DIMPHA%20Final%20Report.pdf).
 
 ## Summary
 - **Objective**: ("Analyze 4 proteins and assess the hydrogen bond altercations induced by specific single and double amino acid insertions")
