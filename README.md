@@ -5,7 +5,7 @@ This repository contains the final report for our bioinformatics final group pro
 The code and preliminary visualizations for this project is available at: [https://github.com/BorisWeinfurt/DIMHPA](https://github.com/BorisWeinfurt/DIMHPA).
 
 ## Report
-You can view the detailed report here: [DIMPHA Final Report](DIMPHA%20Final%20Report.pdf).
+You can view the detailed report here: [DIMHPA Final Report](DIMPHA%20Final%20Report.pdf).
 
 ## Summary
 - **Objective**: ("Analyze 4 proteins and assess the hydrogen bond altercations induced by specific single and double amino acid insertions")
