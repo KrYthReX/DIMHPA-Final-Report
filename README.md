@@ -3,7 +3,7 @@
 This repository contains the final report for our bioinformatics final group project.
 
 ## Report
-You can view the detailed report [here](DIMPHA-Final-Report.pdf).
+You can view the detailed report here:[DIMPHA Final Report](DIMPHA%20Final%20Report.pdf).
 
 ## Summary
 - **Objective**: ("Analyze 4 proteins and assess the hydrogen bond altercations induced by specific single and double amino acid insertions")
